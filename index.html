@@ -16,6 +16,17 @@ title: About
  .html-close { margin-left: 40px; }
  .para-first { margin-left: 80px; }
  .para-second { margin-left: 80px; }
+ .column {
+    float: left;
+    width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 </style>
 <body>
   <p><div class="html-open">&lt;html&gt;</div>
@@ -33,13 +44,18 @@ As for this life, we can share ideas about saving humanity and I know just bit o
 
 <p><h3>More Information</h3></p>
 
-<ul class="info-list">
+<div class="row">
+  <div class="column">
+    <ul class="info-list">
   <li>Name: Shuvam Bosana</li>
   <li>Degree: Masters from IIIT Bangalore, CSE</li>
   <li>Work: Amazon</li>
   <li>Hobby: Build crazy stuff</li>
   <li>Current Situation: Learning React native</li>
-  <li>Places to find me: 
+  <li>Resume: <a href="https://drive.google.com/file/d/1WWk-mmXf2BEToaUEAXRSIQBniARIBpVQ/view?usp=sharing">Shuvam_Bosana_CV</a></li>
+  </div>
+  <div class="column">
+    Places to find me
     <ul class="info-list">
       <li>Inside this Planet: <a href="https://goo.gl/maps/NQRa4ZL1kaJUygfX9">Kolkata</a></li>
       <li>github: <a href="https://github.com/shuvam07">github.com/shuvam07</a></li>
@@ -48,9 +64,8 @@ As for this life, we can share ideas about saving humanity and I know just bit o
     <li>email: <a href="mailto:shuvambosana0705@gmail.com">shuvambosana0705@gmail.com</a></li>
     </ul>
   </li>
-  <li>Resume: <a href="https://drive.google.com/file/d/1WWk-mmXf2BEToaUEAXRSIQBniARIBpVQ/view?usp=sharing">Shuvam_Bosana_CV</a></li>
-</ul>
-
+  </div>
+</div>
 
 
 </body>
