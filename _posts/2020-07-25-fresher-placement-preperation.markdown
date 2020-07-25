@@ -8,7 +8,7 @@ categories: jekyll update
 Almost everyone in their junior year has one bugging question from their seniors - “How to prepare for placements?” As simple as this question may sound, the answer to it is not simple. At first glance it sounds like a simple question, but one appreciates its complexity and intricacies only when they deep dive into it. What resources to use? Which coding platform to use for preparation? What areas to focus on ? Is knowledge of XYZ skill necessary and many more. Here I will try to address most of the queries that everyone has in their junior year.
 
 
-<img src ="{{site.url}}/assets/placement_prep/placement_prep.png" width="100%" height="500" />
+<img src ="{{site.url}}/assets/placement_prep/placement_prep.png" width="100%" height="350" />
 <br/>
 
 1. Does CGPA matter?<br/>
