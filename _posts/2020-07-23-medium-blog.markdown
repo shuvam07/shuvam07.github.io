@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Love for Coding"
+title:  "My Blog in Medium"
 date:   2020-07-23 00:00:37
 categories: jekyll update
 ---
@@ -12,7 +12,7 @@ categories: jekyll update
       }
     </style>
     
-Well I have started publishing my blogs at medium along with a friend's help [Rahul](https://www.linkedin.com/in/raul1rnjn535/) . So Please visit this [link](https://medium.com/chasing-dreams)
+Well I have started publishing my blogs at medium along with a friend [Rahul](https://www.linkedin.com/in/raul1rnjn535/) . So Please visit this [link](https://medium.com/chasing-dreams)
 
 
 <!-- <div>
